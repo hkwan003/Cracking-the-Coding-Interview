@@ -1,4 +1,5 @@
 def StringRotation(strInput1, strInput2):
+    print(3/2)
     if len(strInput1) != len(strInput2):
         return False
     for i in range(len(strInput1)):
