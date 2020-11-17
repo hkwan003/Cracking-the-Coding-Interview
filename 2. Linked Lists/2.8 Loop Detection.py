@@ -18,4 +18,4 @@ def detectCycle(self, head):
                 fast = fast.next
                 curr = curr.next
                 print(curr.val, fast.val)
-            return curr
+            return curr 
